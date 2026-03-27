@@ -1,0 +1,6 @@
+[
+  { "id": 1, "name": "Sữa tươi", "category": "Đồ uống", "price": 12000 },
+  { "id": 2, "name": "Bánh mì", "category": "Đồ ăn", "price": 15000 },
+  { "id": 3, "name": "Mì gói", "category": "Đồ ăn", "price": 6000 },
+  { "id": 4, "name": "Nước cam", "category": "Đồ uống", "price": 20000 }
+]
